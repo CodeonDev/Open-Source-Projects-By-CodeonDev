@@ -1,6 +1,4 @@
 
-# ATTENZIONE: NON È PIÙ MANUTENUTO.
-
 # Google-Translator-telegram-bot-Python
 
 - Si tratta di un bot Telegram che traduce qualsiasi testo in qualsiasi lingua nel mondo.
