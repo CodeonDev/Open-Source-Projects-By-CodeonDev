@@ -1,6 +1,5 @@
 
-# Google-Translator-telegram-bot-Python
-
+# Traduttore
 - Si tratta di un bot Telegram che traduce qualsiasi testo in qualsiasi lingua nel mondo.
 - Utilizza python-telegram-bot.
 - Richiede alcuni moduli Python:
